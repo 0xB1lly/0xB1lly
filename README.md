@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xB1lly. A Senior Software Engineer with 10 years of experience, specialising in backend API and distributed systems development with Go.
 - 👀 I’m interested in DeFi, Rust, and Decentralized Infrastructure.
-- 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on DeFi projects.
 - 📫 https://twitter.com/0XB1lly
 
